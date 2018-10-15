@@ -33,7 +33,8 @@ tags:                               #标签
 ![fenge](https://github.com/dylanxu196/dylanxu196.github.io/raw/master/img/fenge.jpg)
 
 ### EXPERIENCE
-#### Prof. Lei FU’s group, Wuhan University | Hubei, China								Dec. 2016–Aug. 2018
+#### Prof. Lei FU’s group, Wuhan University | Hubei, China					
+#### Dec. 2016–Aug. 2018
 ##### Undergraduate Researcher
 * **Crystal Field Tuning of Photoluminescence in Lanthanide Ions-Embedded Two-dimensional Materials**
 * Designed precursor of CVD method to prepare individual rare-earth embedded monolayer MoS2 crystal on liquid insulating substrate.
@@ -68,7 +69,7 @@ tags:                               #标签
 ### PUBLICATION 
 
 ![lunwen1](https://github.com/dylanxu196/dylanxu196.github.io/raw/master/img/lunwen1.jpg)
- [DOI:10.1002/anie.201711071](https://doi.org/10.1002/anie.201711071))
+ [DOI:10.1002/anie.201711071](https://doi.org/10.1002/anie.201711071)
 
 ### SKILLS
 **Tools:**Chemical Vapor Deposition, Raman & PL spectrometer, AFM, Mask Aligner, Fluorescence spectroscope (Up-conversion), X-ray Powder diffractometer, Probe station, Electrochemical workstation.
