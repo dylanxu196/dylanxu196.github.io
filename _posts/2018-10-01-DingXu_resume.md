@@ -66,7 +66,9 @@ tags:                               #标签
 
 ![atri 4](https://github.com/dylanxu196/dylanxu196.github.io/raw/master/img/art4.png)
 ### PUBLICATION 
-* Crystal Field Tuning of Photoluminescence in Lanthanide Ions-Embedded Two-dimensional Materials, Angew. Chem. Int. Ed. 2018, 57, 755-759 (Listed as First-author. [DOI:10.1002/anie.201711071](https://doi.org/10.1002/anie.201711071))
+
+![lunwen1](https://github.com/dylanxu196/dylanxu196.github.io/raw/master/img/lunwen1.jpg)
+ [DOI:10.1002/anie.201711071](https://doi.org/10.1002/anie.201711071))
 
 ### SKILLS
 **Tools:**Chemical Vapor Deposition, Raman & PL spectrometer, AFM, Mask Aligner, Fluorescence spectroscope (Up-conversion), X-ray Powder diffractometer, Probe station, Electrochemical workstation.
