@@ -33,7 +33,7 @@ tags:                               #标签
 ![fenge](https://github.com/dylanxu196/dylanxu196.github.io/raw/master/img/fenge.jpg)
 
 ### EXPERIENCE
-#### Prof. Lei FU’s group, Wuhan University | Hubei, China					
+#### Prof. Lei FU’s group, Wuhan University, China					
 #### Dec. 2016–Aug. 2018
 ##### Undergraduate Researcher
 * **Crystal Field Tuning of Photoluminescence in Lanthanide Ions-Embedded Two-dimensional Materials**
