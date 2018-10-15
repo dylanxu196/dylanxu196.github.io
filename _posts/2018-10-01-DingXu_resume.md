@@ -1,7 +1,9 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      DING XU RESUME               # 标题 
+title:      DING XU               # 标题 
 subtitle:   EXPLORING IN 2D MATERIALS WORLD #副标题
+date:       2018-10-1 # 时间
+author:     Ding Xu  # 作者
 header-img: img/back.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
@@ -17,6 +19,10 @@ tags:                               #标签
 * College of Chemistry and Molecular Science, Wuhan University, 430072, China.
 * E-mail: [dylanxu196@gmail.com](dylanxu196@gmail.com)
 * Mobile: 919-208-3778 / (+86) 1506-8667-033 
+
+##### Hello, I am Ding. With a strong passion for chemistry and material science, I have been studying 2D material from sophomore year. Observing and modulating nanomaterial's behaviors in 2D scale will provide us with a novel and inspiring view of the 3D world where the same physical laws govern reality.
+ 
+##### My research interests include *nanomaterial synthesis*, *interfacial interaction*, *semiconductor photoelectric technology*, and *energy conversion*.
 
 ### EDUCATION
 * Wuhan University, China, Bachelor of Chemistry												
